@@ -1,0 +1,6 @@
+/**/.DS_Store
+/**/*.py[cod]
+/**/__pycache__
+.eggs/
+.pytest_cache
+/**/.ipynb_checkpoints
