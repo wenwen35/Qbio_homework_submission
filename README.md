@@ -1,3 +1,0 @@
-# Qbio_homework_submission
-A repo for homework submission
-homework_1_wenwenwang_20250917
